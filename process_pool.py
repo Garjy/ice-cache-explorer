@@ -44,7 +44,6 @@ class Pool(QtCore.QObject):
         self._in_processes = None
         self._tasks = None
         self._proc_count = 1
-        self._callback = None
         self._serving = False
 
     def init( self, process_count=1, callback=None ):    
