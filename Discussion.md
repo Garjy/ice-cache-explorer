@@ -1,0 +1,1 @@
+Ideas/proposals for ICE Cache Explorer.
